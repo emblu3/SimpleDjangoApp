@@ -1,7 +1,7 @@
 # Simple Django App
 
-## Blog
+## Blog 
 
-This is my first Django App.
+This is my first Django App. 
 
-![Assignment Screenshot](/images/screenshot.png)
+![First Assignment Screenshot](/images/screenshot.png)
